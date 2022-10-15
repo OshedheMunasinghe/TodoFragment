@@ -5,4 +5,11 @@
     <string name="ic_no_data_image">No Data</string>
     <string name="material_action_button">Action Button</string>
     <string name="no_data">No Data</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string-array name="priorities">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
 </resources>

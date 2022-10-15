@@ -2,4 +2,5 @@
 <resources>
     <string name="ic_no_data_image">No Data</string>
     <string name="material_action_button">Action Button</string>
+    <string name="title">Title</string>
 </resources>

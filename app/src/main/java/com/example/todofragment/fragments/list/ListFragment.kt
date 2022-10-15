@@ -24,6 +24,9 @@ class ListFragment : Fragment() {
 
         _binding = FragmentListBinding.inflate(inflater, container, false)
 
+        binding.floatingActionButton.setOnClickListener {
+            findNavController().navigate(R.id.addFragment)
+        }
 
 
 
